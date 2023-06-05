@@ -1,0 +1,4 @@
+openneuro/**
+afni/__*
+afni/*vr_motion*
+*.tar
